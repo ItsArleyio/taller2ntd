@@ -80,7 +80,9 @@
     scroll-behavior: smooth;
   }
 }
-
+#course{
+  background-color: #04414d;
+}
 body {
   margin: 0;
   font-family: var(--bs-body-font-family);
